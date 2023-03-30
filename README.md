@@ -1,15 +1,10 @@
-### Hi there 👋
-
-<!--
-**Isidrobox/Isidrobox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Isidro García!
 
 I'm a Software Development student (CFGS Desarrollo de Aplicaciones Multiplataforma) in Spain. I'm currently based in Almería.
 
-I've been always interested in software development and because the COVID-19 pandemic I decided to make a change in my life.✨😍
+I've been always interested in software development and because the COVID-19 pandemic I decided to make a change in my life.
 
-## - 🌱 I’m currently learning ...
+## 🌱 I’m currently learning ...
 I'm mostly focused on improving my knowledge in Python, QA and App testing with Seleium and Robot Framework.
 
 During 2021/2022 I've also learnt about:
@@ -51,7 +46,6 @@ During 2021/2022 I've also learnt about:
 #### GAMES DEVELOPMENT
 - Unity 3D
 - Scripts with C#
-
 
 ## - 📫 How to reach me ...
 
