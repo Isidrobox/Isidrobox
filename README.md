@@ -22,10 +22,11 @@ During 2021/2022 I've also learnt about:
 - Database design (ER diagrams)
 - Oracle (SQL queries and PL/SQL language)
 - MySQL
-- DB4O, NeoDatis
+- DB4O & NeoDatis
 
 #### XML DATABASES
-- eXist (XPath & XQuery queries)
+- eXist
+- XPath & XQuery queries
 
 #### DOCUMENTATION AND REPORTING
 - Javadoc and JasperReport (iReport and Jaspersoft Studio)
