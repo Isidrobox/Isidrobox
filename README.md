@@ -5,7 +5,7 @@ I'm a Software Development student (CFGS Desarrollo de Aplicaciones Multiplatafo
 I've been always interested in software development and because the COVID-19 pandemic I decided to make a change in my life.
 
 ## 🌱 I’m currently learning ...
-I'm mostly focused on improving my knowledge in Python, QA and App testing with Seleium and Robot Framework.
+I'm mostly focused on improving my knowledge in Python, QA and App testing with Selenium and Robot Framework.
 
 During 2021/2022 I've also learnt about:
 
