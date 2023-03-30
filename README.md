@@ -29,7 +29,8 @@ During 2021/2022 I've also learnt about:
 - XPath & XQuery queries
 
 #### DOCUMENTATION AND REPORTING
-- Javadoc and JasperReport (iReport and Jaspersoft Studio)
+- Javadoc
+- JasperReport Studio and iReport
 
 #### WEB DESIGN FUNDAMENTALS
 - HTML5 and CSS3
@@ -47,6 +48,11 @@ During 2021/2022 I've also learnt about:
 #### GAMES DEVELOPMENT
 - Unity 3D
 - Scripts with C#
+
+#### IDE
+- Apache Netbeans
+- Visual Studio Code
+- PyCharm Community
 
 ## 📫 How to reach me ...
 
