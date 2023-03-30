@@ -48,7 +48,7 @@ During 2021/2022 I've also learnt about:
 - Unity 3D
 - Scripts with C#
 
-## - 📫 How to reach me ...
+## 📫 How to reach me ...
 
 ### LinkedIn: 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/isidrodomingogarciafernandez)
